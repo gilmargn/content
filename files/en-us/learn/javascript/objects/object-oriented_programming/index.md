@@ -6,11 +6,11 @@ page-type: learn-module-chapter
 
 {{LearnSidebar}}{{PreviousMenuNext("Learn/JavaScript/Objects/Object_prototypes", "Learn/JavaScript/Objects/Classes_in_JavaScript", "Learn/JavaScript/Objects")}}
 
-Object-oriented programming (OOP) is a programming paradigm fundamental to many programming languages, including Java and C++. In this article, we'll provide an overview of the basic concepts of OOP. We'll describe three main concepts: **classes and instances**, **inheritance**, and **encapsulation**. For now, we'll describe these concepts without reference to JavaScript in particular, so all the examples are given in {{Glossary("Pseudocode", "pseudocode")}}.
+Programação Orientada o Objetos (POO) é uma paradigma de programação fundamental em muitas linguagens de programação, incluindo Java e C++. Neste artigo, mostraremos uma visão básicos dos conceitos de POO. Descreveremos três conceitos principais: **classes e instâncias**, **herança** e **encapsulamento**. Por agora, descreveremos estes conceitos sem referência em Javascript em particular, então alguns exemplos serão dados em {{Glossary("Pseudocódigo", "pseudocodigo")}}.
 
-> **Note:** To be precise, the features described here are of a particular style of OOP called **class-based** or "classical" OOP. When people talk about OOP, this is generally the type that they mean.
+> **Notas:**Para ser preciso, as características descritas aqui em particular a POO conhecido como "baseado em classe" ou "clássica". Quando se fala de POO, geralmente esse é o tipo que se tratam.
 
-After that, in JavaScript, we'll look at how constructors and the prototype chain relate to these OOP concepts, and how they differ. In the next article, we'll look at some additional features of JavaScript that make it easier to implement object-oriented programs.
+Depois disso, em Javascript, veremos como construtores e protótipos se ligam aos conceitos de POO, e se diferenciam. No próximo artigo, adicionaremos características de Javascript que facilitam a implementação de programação Orientado a Objetos.
 
 <table>
   <tbody>
